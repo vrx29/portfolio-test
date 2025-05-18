@@ -1,0 +1,7 @@
+.app{
+    margin: auto;
+    min-height: 100vh;
+    background-color: var(--color-black);
+    color: var(--color-white);
+    max-width: 1280px;
+}
